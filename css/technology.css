@@ -1,7 +1,7 @@
 .technology-page .division-hero{background:linear-gradient(115deg,#f4f8fb,#e6f0f7);padding:75px 9% 85px;}
 .technology-page .division-hero-inner{max-width:950px;margin:auto;}
 .technology-page .back-link{font-size:12px;font-weight:700;color:#1769aa;display:inline-block;margin-bottom:35px}
-.technology-page .division-symbol{width:65px;height:65px;border-radius:16px;background:#fff;color:#1769aa;display:grid;place-items:center;font-size:34px;box-shadow:0 10px 30px #173f6510;margin-bottom:20px}
+.technology-page .division-symbol{width:65px;height:65px;border-radius:16px;background:technology.png;color:#1769aa;display:grid;place-items:center;font-size:34px;box-shadow:0 10px 30px #173f6510;margin-bottom:20px}
 .technology-page .division-hero h1{font:800 clamp(42px,6vw,68px)/1.1 Manrope,sans-serif;color:#102a43;letter-spacing:-2px;margin:0}
 .technology-page .division-subtitle{font-size:19px;color:#637586;margin:16px 0 0;max-width:600px}
 .technology-page .division-detail{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:start}
