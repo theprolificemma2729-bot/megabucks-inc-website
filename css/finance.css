@@ -1,0 +1,17 @@
+.finance-page .division-hero{background:linear-gradient(115deg,#f4f8fb,#e6f0f7);padding:75px 9% 85px;}
+.finance-page .division-hero-inner{max-width:950px;margin:auto;}
+.finance-page .back-link{font-size:12px;font-weight:700;color:#1769aa;display:inline-block;margin-bottom:35px}
+.finance-page .division-symbol{width:65px;height:65px;border-radius:16px;background:#fff;color:#1769aa;display:grid;place-items:center;font-size:34px;box-shadow:0 10px 30px #173f6510;margin-bottom:20px}
+.finance-page .division-hero h1{font:800 clamp(42px,6vw,68px)/1.1 Manrope,sans-serif;color:#102a43;letter-spacing:-2px;margin:0}
+.finance-page .division-subtitle{font-size:19px;color:#637586;margin:16px 0 0;max-width:600px}
+.finance-page .division-detail{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:start}
+.finance-page .division-detail h2{font-size:38px}
+.finance-page .division-detail>div:nth-child(2){color:#637586;max-width:580px}
+.finance-page .division-note{padding:15px 18px;background:#f5f8fa;border-left:3px solid #d7a84b;font-size:13px}
+.finance-page .other-divisions{background:#f7fafc}
+.finance-page .other-divisions .section{padding-top:65px;padding-bottom:65px}
+.finance-page .other-divisions h2{font-size:30px;margin-bottom:25px}
+.finance-page .other-links{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.finance-page .other-links a{padding:15px;background:#fff;border:1px solid #e5edf2;font-size:13px;font-weight:700;color:#1769aa}
+.finance-page .other-links a:hover{border-color:#1769aa}
+@media(max-width:700px){.finance-page .division-hero{padding:55px 7%}.finance-page .division-detail{grid-template-columns:1fr;gap:20px}.finance-page .other-links{grid-template-columns:repeat(2,1fr)}}
